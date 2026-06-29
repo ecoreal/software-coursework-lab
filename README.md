@@ -1,3 +1,14 @@
+<!-- ecoreal-repo-header: software-coursework-lab -->
+<div align="center">
+
+<img src="assets/repo-icon.png" width="160" alt="Software Coursework Lab icon">
+
+# Software Coursework Lab
+
+Course projects and software engineering practice archive.
+
+</div>
+
 # CS Software
 
 软件构造课程作品集与综合项目整理仓库。
